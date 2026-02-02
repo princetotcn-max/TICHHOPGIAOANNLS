@@ -1,0 +1,7 @@
+{
+  "name": "Hotrogiaovien",
+  "description": "Tạo giáo án tích hợp năng lực số",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
